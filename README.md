@@ -33,4 +33,4 @@ This project compares the performance of three machine learning models on the Do
 
 ## 📬 Contact
 
-Created by [Tarannom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
+Created by [Taranom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
